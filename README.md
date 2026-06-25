@@ -2,7 +2,7 @@
 
 A full-stack NLP application to collect, analyze, and manage customer reviews. Features real-time sentiment classification, persistent cloud storage, and an interactive analytics dashboard.
 
-**Live Demo:** [huggingface.co/spaces/Mahnoor4789/brand-review-web](https://huggingface.co/spaces/Mahnoor4789/brand-review-web)
+**Live Demo:** [https://huggingface.co/spaces/Mahnoor4789/brand-review-web](https://huggingface.co/spaces/Mahnoor4789/brand-review-web)
 
 ---
 
